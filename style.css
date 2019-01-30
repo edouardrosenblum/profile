@@ -1,0 +1,51 @@
+body {
+color: #555555;
+font-family: Montserra;
+background-color: #ededed;
+}
+
+h1 {
+color:#f8bb32;
+font-size: 40px;
+font-family: Montserra;
+}
+
+h2, h3 {
+color:#003480;
+font-family: Montserra;
+}
+
+ul li {
+  color:#003480;
+  list-style-type: none;
+  display: inline;
+}
+
+
+a {
+  text-decoration:none;
+}
+
+a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#profile-pic {
+  border-radius: 50%;
+  height: 250px;
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px grey;
+}
